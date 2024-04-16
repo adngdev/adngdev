@@ -14,19 +14,19 @@ My favorite quote: _"Slow Motion is Better than No Motion"_
 
 ## :point_right: What I Do
 ### Programming Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,py,java,cs,html,css,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,py,java,cs,html,css,php&theme=light)]()
 
 ### Frameworks & Libraries
-[![My Frameworks](https://skillicons.dev/icons?i=react,express,tailwind,vite,django,sequelize,materialui,dotnet,bootstrap,php&theme=light)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=react,express,tailwind,vite,django,sequelize,materialui,dotnet,bootstrap&theme=light)]()
 
 ### Databases
-[![My Frameworks](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=light)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=light)]()
 
 ### Cloud Services
-[![My Cloud](https://skillicons.dev/icons?i=aws,azure,heroku,gcp&theme=light)](https://skillicons.dev)
+[![My Cloud](https://skillicons.dev/icons?i=aws,azure,heroku,gcp&theme=light)]()
 
 ### Designing Tools
-[![My Design](https://skillicons.dev/icons?i=figma,xd,ps&theme=light)](https://skillicons.dev)
+[![My Design](https://skillicons.dev/icons?i=figma,xd,ps&theme=light)]()
 
 ### Others
-[![My Others](https://skillicons.dev/icons?i=postman,bitbucket,git,github,visualstudio,vscode,webstorm,discord&theme=light)](https://skillicons.dev)
+[![My Others](https://skillicons.dev/icons?i=postman,bitbucket,git,github,visualstudio,vscode,webstorm,discord&theme=light)]()
