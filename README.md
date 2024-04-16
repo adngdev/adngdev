@@ -3,7 +3,7 @@
   <img src="/asset/cat-on-computer.gif" alt="Alt text" width="250">
 </p>
 
-I'm Jamie, a full stack developer from Vietnam <img src="/asset/vietnam-flag.jpg" alt="Flag" width="15"> and currently living in Melbourne :australia:.
+I'm Jamie, a full stack developer from Vietnam <img src="/asset/vietnam-flag.jpg" alt="Flag" width="15"> and currently living in Melbourne <img src="/asset/aus-flag.png" alt="Flag" width="16"> .
 
 Passionate about problem-solving and continuous growth. From coding challenges to real-world dilemmas, I'm always eager to dive in and find solutions.
 
