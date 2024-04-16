@@ -1,28 +1,32 @@
-# :smirk_cat: Nice To See You
+# :smirk_cat: Hi! Nice To See You
+<p align="center">
+  <img src="/asset/cat-on-computer.gif" alt="Alt text" width="250">
+</p>
 
-Hi! I'm Jamie, a full stack developer from Vietnam :vietnam: and currently living in Melbourne :australia:.
+I'm Jamie, a full stack developer from Vietnam <img src="/asset/vietnam-flag.jpg" alt="Flag" width="15"> and currently living in Melbourne :australia:.
 
 Passionate about problem-solving and continuous growth. From coding challenges to real-world dilemmas, I'm always eager to dive in and find solutions.
 
 My favorite quote: _"Slow Motion is Better than No Motion"_
 
 ## :point_right: I Am Available On
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnguyen2509/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/adnguyen2509/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/adnguyen2509/)
 
+## :point_right: What I Do
+### Programming Skills
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,py,java,cs,html,css,php&theme=light)](https://skillicons.dev)
 
+### Frameworks & Libraries
+[![My Frameworks](https://skillicons.dev/icons?i=react,express,tailwind,vite,django,sequelize,materialui,dotnet,bootstrap,php&theme=light)](https://skillicons.dev)
 
-<!--
-**adngdev/adngdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Databases
+[![My Frameworks](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### Cloud Services
+[![My Cloud](https://skillicons.dev/icons?i=aws,azure,heroku,gcp&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Designing Tools
+[![My Design](https://skillicons.dev/icons?i=figma,xd,ps&theme=light)](https://skillicons.dev)
+
+### Others
+[![My Others](https://skillicons.dev/icons?i=postman,bitbucket,git,github,visualstudio,vscode,webstorm,discord&theme=light)](https://skillicons.dev)
