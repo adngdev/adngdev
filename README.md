@@ -1,6 +1,6 @@
 # :smirk_cat: Nice To See You
 
- Hi! I'm Jamie, a full stack developer from Vietnam :vietnam: and currently living in Melbourne :australia:.
+Hi! I'm Jamie, a full stack developer from Vietnam :vietnam: and currently living in Melbourne :australia:.
 
 Passionate about problem-solving and continuous growth. From coding challenges to real-world dilemmas, I'm always eager to dive in and find solutions.
 
