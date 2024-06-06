@@ -14,10 +14,10 @@ My favorite quote: _"Slow Motion is Better than No Motion"_
 
 ## :point_right: What I Do
 ### Programming Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,py,java,cs,html,css,php&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,py,java,cs,html,css,php&theme=light)]()
 
 ### Frameworks & Libraries
-[![My Frameworks](https://skillicons.dev/icons?i=react,express,tailwind,vite,django,sequelize,materialui,dotnet,bootstrap&theme=light)]()
+[![My Frameworks](https://skillicons.dev/icons?i=react,express,nest,next,tailwind,vite,django,sequelize,materialui,dotnet,bootstrap&theme=light)]()
 
 ### Databases
 [![My Frameworks](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=light)]()
